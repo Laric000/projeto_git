@@ -2,3 +2,4 @@
 "tela de login" 
 "valida‡Æo de login"  
 "finalizado feature de login" 
+"tela cadastro criada" 
