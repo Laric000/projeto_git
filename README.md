@@ -4,3 +4,4 @@
 "finalizado feature de login" 
 "tela cadastro criada" 
 "valida‡Æo cadastro"  
+"feature cadastro finalizado" 
